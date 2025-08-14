@@ -3,7 +3,7 @@
 ![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=55&animation=fadeIn&fontAlignY=40)
 
 ## 🚀 About Me
-I am a Full-Stack software engineer generalist with a keen eye on TypeScript and JavaScript and a passion for building robust enterprise applications. My favorite project is [ckagiri/predictor](https://github.com/ckagiri/predictor) a football prediction app for tipsters. I thrive on solving complex business challenges and leveraging modern programming paradigms to deliver high-quality, maintainable software. I am currently seeking new opportunities to contribute to impactful projects and collaborate with talented teams.
+I am a Full-Stack software engineer generalist with a keen eye on TypeScript and JavaScript and a passion for building robust enterprise applications. #FunFact - I have an interesting side-project here [ckagiri/predictor](https://github.com/ckagiri/predictor) a football prediction app for tipsters. I thrive on solving complex business challenges and leveraging modern programming paradigms to deliver high-quality, maintainable software. I am currently seeking new opportunities to contribute to impactful projects and collaborate with talented teams.
 
 ## 🛠️ Technologies & Tools
 - **Languages:** TypeScript, JavaScript, Java, Ruby
