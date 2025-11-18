@@ -11,7 +11,7 @@ I am a Full-Stack software engineer with a keen eye on TypeScript and JavaScript
 - **Tools:** Git, Docker, Jest, Jenkins
 
 ## 🌱 Currently Learning
-- K8s
+- Microservices Architecture
 
 
 ## 🔥 My Favorite Projects
