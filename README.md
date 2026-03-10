@@ -1,24 +1,67 @@
-# 👋 Hi there! Welcome to my GitHub Profile
+# 👋 Hi, I'm Charles Kagiri | Senior Full-Stack Engineer
 
-![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=55&animation=fadeIn&fontAlignY=40)
+### *Pure Mathematician turned Systems Builder. Architecting for Resilience.*
 
-## 🚀 About Me
-I am a Full-Stack software engineer with a keen eye on TypeScript and JavaScript and a passion for building robust enterprise applications. #FunFact - I have an interesting side-project here [ckagiri/ligitabl](https://github.com/ckagiri/ligitabl) a football standings prediction app for English Premier League fans (like me -- up the Blues :)). I thrive on solving complex business challenges and leveraging modern programming paradigms to deliver high-quality, maintainable software. I am currently seeking new opportunities to contribute to impactful projects and collaborate with awesome teams.
+![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0052FF&height=200&section=header&text=Building%20Beyond%20the%20Code&fontSize=50&animation=fadeIn&fontAlignY=40)
 
-## 🛠️ Technologies & Tools
-- **Languages:** TypeScript, JavaScript, Java, Ruby
-- **Frameworks:** (React, Node.js, Express, Spring, Rails)
-- **Tools:** Git, Docker, Jest, Jenkins
+## 🚀 The Profile
+I am a **Senior Full-Stack Software Engineer** with over 14 years of experience delivering robust, end-to-end applications—from **Foursquare’s** leading, market-leading attribution tools to **Zero-Trust** financial gateways in Kenya.
 
-## 🌱 Currently Learning
-- Microservices Architecture
+I don't just "occupy" a role; I take initiative to drive long-term value, solve customer pain points through relentless iteration, and I'm never too senior to "take out the trash."
+
+* 🌍 **Formely at:** Foursquare (USA), FaunaDB (San Francisco), Fintech Infrastructure (Kenya).
+* 🛡️ **Specialities:** Zero-Trust Security (AES-256-GCM), ISO 20022 Payment Orchestration, AWS Serverless, and Rich Domain Modeling.
+* ⚽ **Fun FAct:** Die-hard Chelsea fan (Up the Blues!) and creator of [Ligitabl](https://github.com/ckagiri/ligitabl), an English-Premier-League table-prediction app.
+
+---
+
+## 🏗️ Core Philosophy: Builders & Owners
+
+### **Owners Over Occupation**
+I take accountability for results. I bias my decision-making toward **long-term value creation** over short-term "hacks." If a system is failing or a process is broken, I take the initiative to fix it. I own the outcome, not just the ticket.
+
+### **Builders Wanted**
+I am obsessed with solving customer problems and constantly seeking out pain points. I am deeply resourceful and deliver **production-hardened solutions** through ingenuity, invention, and relentless iteration.
 
 
-## 🔥 My Favorite Projects
-- [ckagiri/predictor](https://github.com/ckagiri/predictor)
 
-## 💬 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/charles-kagiri-44359972/
+---
+
+## 🤖 AI & Augmented Engineering
+I view **AI as a Force Multiplier** for the modern Builder. I leverage LLMs and AI-driven tooling not just to write code faster, but to/for:
+* **Accelerate Prototyping**
+* **Enhance Observability**
+* **Architecture Validation**
+* **Agentic Workflows**
+
+
+---
+
+## 🛠️ Technical Arsenal
+
+### **Languages & Frameworks**
+* **Frontend:** TypeScript, React, Angular, Gatsby, D3.js (Data Viz), AG-Grid.
+* **Backend:** Java (Spring Boot), .NET (C#), Node.js, Python, SQL
+* **Cloud/Infra:** AWS (Lambda, DynamoDB, SNS/SQS), PostgreSQL (JSONB), MongoDB, RabbitMQ.
+
+### **Architecture & Patterns**
+* **Patterns:** Saga Choreography, Transactional Outbox, Compensating Transactions (Reversals).
+* **Security:** JWT Token Chaining, AES-GCM Authenticated Encryption, Bounded Contexts.
+
+
+
+---
+
+## 🔥 Past Work
+* **[ckagiri/ligitabl](https://github.com/ckagiri/ligitabl):** A football standings prediction app. Built with an owner's mindset for high-density data and state management.
+* **Zero-Trust Security:** Implementing One-Time Token (OTT) logic to eliminate session hijacking in stateless APIs.
+* **Serverless Reporting:** Architecting asynchronous reporting pipelines that reduced turnaround by 70% for Foursquare.
+
+---
+
+## 💬 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/charles-kagiri-44359972/)
+- 📧 [Reach out via Email](charleskagiri@gmail.com)
 
 ---
 
