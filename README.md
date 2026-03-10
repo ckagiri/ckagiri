@@ -10,8 +10,9 @@ I am a **Senior Full-Stack Software Engineer** with over 14 years of experience 
 I don't just "occupy" a role; I take initiative to drive long-term value, solve customer pain points through relentless iteration, and I'm never too senior to "take out the trash."
 
 * 🌍 **Formely at:** Foursquare (USA), FaunaDB (San Francisco), Fintech Infrastructure (Kenya).
-* 🛡️ **Specialities:** Zero-Trust Security (AES-256-GCM), ISO 20022 Payment Orchestration, AWS Serverless, and Rich Domain Modeling.
-* ⚽ **Fun FAct:** Die-hard Chelsea fan (Up the Blues!) and creator of [Ligitabl](https://github.com/ckagiri/ligitabl), an English-Premier-League table-prediction app.
+* 🛡️ **Specialities:** Zero-Trust Security (AES-256-GCM), ISO 20022 (Pesalink) Payment Orchestration &the  Messaging, AWS Serverless, and Rich Domain Modeling.
+* 🤖 **AI-Augmented:** Leveraging LLMs and Agentic workflows to accelerate system design.
+* ⚽ **Fun Fact:** Die-hard Chelsea fan (Up the Blues!) and creator of [Ligitabl](https://github.com/ckagiri/ligitabl), an English-Premier-League table-prediction app.
 
 ---
 
@@ -26,6 +27,11 @@ I am obsessed with solving customer problems and constantly seeking out pain poi
 
 
 ---
+
+## 💳 Fintech & Payment Orchestration**
+Currently working on the implementation of the **ISO 20022 standard** payment integration, specifically within the **Pesalink** ecosystem.
+* **Message Orchestration:** Handling `pacs.008` (Customer Credit Transfer) and `pacs.002` (Payment Status Report) flows for a global user base.
+* **Gateway Architecture:** Building resilient bridges between core banking systems and external payment switches.
 
 ## 🤖 AI & Augmented Engineering
 I view **AI as a Force Multiplier** for the modern Builder. I leverage LLMs and AI-driven tooling not just to write code faster, but to/for:
@@ -53,7 +59,7 @@ I view **AI as a Force Multiplier** for the modern Builder. I leverage LLMs and 
 ---
 
 ## 🔥 Past Work
-* **[ckagiri/ligitabl](https://github.com/ckagiri/ligitabl):** A football standings prediction app. Built with an owner's mindset for high-density data and state management.
+* **[ckagiri/ligitabl](https://github.com/ckagiri/ligitabl):** A football standings prediction app. Built with an owner's mindset.
 * **Zero-Trust Security:** Implementing One-Time Token (OTT) logic to eliminate session hijacking in stateless APIs.
 * **Serverless Reporting:** Architecting asynchronous reporting pipelines that reduced turnaround by 70% for Foursquare.
 
