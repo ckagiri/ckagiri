@@ -43,12 +43,13 @@ I view **AI as a Force Multiplier** for the modern Builder. I leverage LLMs and 
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Full-Stack Arsenal
 
 ### **Languages & Frameworks**
 * **Frontend:** TypeScript, React, Angular, Gatsby, D3.js (Data Viz), AG-Grid.
 * **Backend:** Java (Spring Boot), .NET (C#), Node.js, Python, SQL
 * **Cloud/Infra:** AWS (Lambda, DynamoDB, SNS/SQS), PostgreSQL (JSONB), MongoDB, RabbitMQ.
+* **Security & Research:** Experience in Zero-Trust models and AES-GCM Authenticated Encryption for financial data.
 
 ### **Architecture & Patterns**
 * **Patterns:** Saga Choreography, Transactional Outbox, Compensating Transactions (Reversals).
