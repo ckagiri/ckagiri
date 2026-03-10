@@ -5,7 +5,7 @@
 ![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0052FF&height=200&section=header&text=Building%20Beyond%20the%20Code&fontSize=50&animation=fadeIn&fontAlignY=40)
 
 ## 🚀 The Profile
-I am a **Senior Full-Stack Software Engineer** with over 14 years of experience delivering robust, end-to-end applications—from **Foursquare’s** leading, market-leading attribution tools to **Zero-Trust** financial gateways in Kenya.
+I am a **Senior Full-Stack Software Engineer** with over 14 years of experience delivering robust, end-to-end applications—from **Foursquare’s** market-leading attribution tools to **Zero-Trust** financial gateways in Kenya.
 
 I don't just "occupy" a role; I take initiative to drive long-term value, solve customer pain points through relentless iteration, and I'm never too senior to "take out the trash."
 
