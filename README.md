@@ -28,7 +28,7 @@ I am obsessed with solving customer problems and constantly seeking out pain poi
 
 ---
 
-## 💳 Fintech & Payment Orchestration**
+## 💳 Fintech & Payment Orchestration
 Currently working on the implementation of the **ISO 20022 standard** payment integration, specifically within the **Pesalink** ecosystem.
 * **Message Orchestration:** Handling `pacs.008` (Customer Credit Transfer) and `pacs.002` (Payment Status Report) flows for a global user base.
 * **Gateway Architecture:** Building resilient bridges between core banking systems and external payment switches.
