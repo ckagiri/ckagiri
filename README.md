@@ -10,7 +10,7 @@ I am a **Senior Full-Stack Software Engineer** with over 14 years of experience 
 I don't just "occupy" a role; I take initiative to drive long-term value, solve customer pain points through relentless iteration, and I'm never too senior to "take out the trash."
 
 * 🌍 **Formely at:** Foursquare (USA), FaunaDB (San Francisco), Fintech Infrastructure (Kenya).
-* 🛡️ **Specialities:** Zero-Trust Security (AES-256-GCM), ISO 20022 (Pesalink) Payment Orchestration &the  Messaging, AWS Serverless, and Rich Domain Modeling.
+* 🛡️ **Specialities:** Zero-Trust Security (AES-256-GCM), ISO 20022 (Pesalink) Payment Orchestration & Messaging, AWS Serverless, and Rich Domain Modeling (DDD).
 * 🤖 **AI-Augmented:** Leveraging LLMs and Agentic workflows to accelerate system design.
 * ⚽ **Fun Fact:** Die-hard Chelsea fan (Up the Blues!) and creator of [Ligitabl](https://github.com/ckagiri/ligitabl), an English-Premier-League table-prediction app.
 
